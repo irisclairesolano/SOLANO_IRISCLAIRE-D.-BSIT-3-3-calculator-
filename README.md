@@ -23,20 +23,22 @@ Simply open the index.html file in your preferred web browser.
 
 Click the buttons on the calculator to input numbers and operators.
 
-Controls:
+** Controls: ** 
 
+```
 C → Clear the display
 
 DEL → Delete the last character
 
 = → Calculate the result
+```
 
 You can perform basic operations such as addition, subtraction, multiplication, and division.
 
-##Technologies Used
+## Technologies Used
 
-HTML5
+**HTML5**
 
-CSS3
+**CSS3**
 
-JavaScript (ES6) 
+**JavaScript (ES6)** 

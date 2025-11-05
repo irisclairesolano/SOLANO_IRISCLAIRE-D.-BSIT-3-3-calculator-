@@ -1,30 +1,42 @@
-#  Simple Calculator using HTML, CSS, and JavaScript
+# Simple Calculator
 
-This project is a beginner-friendly calculator built using **HTML**, **CSS**, and **JavaScript**.  
-It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+A simple and functional calculator built with **HTML**, **CSS**, and **JavaScript** to perform basic arithmetic operations with ease.
 
----
+## Getting Started
 
-##  How to Run
-1. Open the `index.html` file in your browser.
-2. Use the on-screen buttons to perform calculations.
-3. Press **C** to clear, **DEL** to delete the last input, and **=** to get the result.
+To get a local copy up and running, follow these simple steps.
 
----
+### Installation
 
-##  Technologies Used
-- **HTML5** — for the structure  
-- **CSS3** — for the layout and design  
-- **JavaScript (ES6)** — for the logic and interactivity  
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/your_username/simple-calculator.git
 
----
+2. **Open the project folder**
+ Navigate to the directory where the project was cloned.
 
-##  Features
-- Responsive layout
-- Real-time calculation updates
-- Error handling for invalid inputs
+3. **Run the application**
+Simply open the index.html file in your preferred web browser. 
 
----
 
-##  Student
- **SOLANO, Iris Claire D. **  
+## Usage
+
+Click the buttons on the calculator to input numbers and operators.
+
+Controls:
+
+C → Clear the display
+
+DEL → Delete the last character
+
+= → Calculate the result
+
+You can perform basic operations such as addition, subtraction, multiplication, and division.
+
+##Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript (ES6) 

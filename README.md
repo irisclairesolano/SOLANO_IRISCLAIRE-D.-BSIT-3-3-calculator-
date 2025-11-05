@@ -35,10 +35,10 @@ DEL → Delete the last character
 
 You can perform basic operations such as addition, subtraction, multiplication, and division.
 
-## Technologies Used
+##Technologies Used
 
-**HTML5**
+*HTML5**
 
-**CSS3**
+*CSS3**
 
-**JavaScript (ES6)** 
+*JavaScript (ES6)** 
